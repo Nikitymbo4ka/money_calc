@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #7a7a7a;
+}
+.content{
+    display: flex;
+    justify-content: space-around
+}
+.rub{
+    background: #7a1717;
+}
+input{
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+}
+.linia{
+    width: 1050px;
+    height: 10px;
+    background: white;
+}
+.contente{
+    margin-left: 70px;
+}
+.oval{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: black;
+    border-radius: 30px;
+    top: 437px;
+    margin-left: 200px;
+}
+h1{
+    color: white;
+}
